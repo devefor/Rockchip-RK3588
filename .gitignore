@@ -1,0 +1,55 @@
+__Previews/
+History/
+
+# Исключить из игнорирования .SchDoc и .PrjPcb
+!*.SchDoc
+!*.PrjPcb
+
+# Остальные файлы Altium Designer
+*.PrjPcbStructure
+*.PrjFpg
+*.PrjDb
+*.PrjSch
+*.IntLib
+*.OutJob
+*.SchDot
+*.PcbDoc
+*.PcbLib
+*.Cfg
+*.Ini
+*.DsnWorks
+*.DsnDb
+*.Log
+*.History
+
+# Компиляция и временные файлы
+*.CmpLib
+*.Prcf
+*.Rcf
+*.csv
+*.xls
+*.zip
+*.rar
+*.7z
+
+# Генерация данных
+Output/*
+
+# Конфигурационные файлы
+*.drc
+*.rule
+*.net
+*.tdb
+*.tfv
+*.tfp
+*.appdata
+*.rpt
+*.PickPlace
+*.Gerber
+
+# Другие временные файлы
+*.bak
+*.~*
+~$*
+.DS_Store
+Thumbs.db
