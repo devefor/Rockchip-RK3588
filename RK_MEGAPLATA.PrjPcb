@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IQJGBTHP
 
 [Document6]
-DocumentPath=RK3588_USB30_USB20.SchDoc
+DocumentPath=RK3588_TYPE_C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -288,40 +288,6 @@ GenerateClassCluster=0
 DocumentUniqueId=RMHWHFZS
 
 [Document15]
-DocumentPath=POWER_EXT_DISCRETE.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SNNOLIYN
-
-[Document16]
-DocumentPath=RTC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QQSXACEK
-
-[Document17]
 DocumentPath=PORT_TYPE-C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JFYRUGLL
 
-[Document18]
+[Document16]
 DocumentPath=..\..\..\..\main\Desktop\rk_pcb\Imported RK3588_AIOT_REF_SCH_V10_20211228.PrjPcb\RK3588_AIOT_REF_SCH_V10_20211228_Library.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document17]
 DocumentPath=DRAM_LPDDR4X_200P_2X32bit.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PNOAHNXL
 
-[Document20]
+[Document18]
 DocumentPath=FLASH_EMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WGJTVFHO
 
-[Document21]
+[Document19]
 DocumentPath=FLASH_SD_CARD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MEWNIXBP
 
-[Document22]
+[Document20]
 DocumentPath=SD_CARD_SDIO.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PKCLDNOJ
 
-[Document23]
+[Document21]
 DocumentPath=HDMI2_0_RX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YUHNGCJR
 
-[Document24]
+[Document22]
 DocumentPath=MIPI_D_CPHY_TX_DUAL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UIHAGCCD
 
-[Document25]
+[Document23]
 DocumentPath=ETHERNET_PHY_RGMII.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XGZDGPBH
 
-[Document26]
+[Document24]
 DocumentPath=BUTTON.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
