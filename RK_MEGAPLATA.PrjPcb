@@ -288,7 +288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RMHWHFZS
 
 [Document15]
-DocumentPath=PORT_TYPE-C.SchDoc
+DocumentPath=PORT_TYPE_C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
